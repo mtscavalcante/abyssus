@@ -1,0 +1,79 @@
+@font-face {
+  font-family: GeistMono;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-SemiBoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: GeistMono;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/geist-mono/GeistMono-BoldItalic.woff2") format("woff2");
+}
